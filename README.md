@@ -415,7 +415,7 @@ A: Gemini AI is trained on vast pharmaceutical data, but always verify critical 
 
 ## 📄 License
 
-MIT License - feel free to use this project for personal or commercial purposes.
+MIT License 
 
 ## 👤 Contact & Support
 
